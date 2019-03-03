@@ -1,0 +1,11 @@
+---
+path: "/post-71026/"
+category: "Remote Jobs"
+tags: ["infosec","java","javascript"]
+title: "Sr. Infrastructure Security Engineer - Oakland or Remote"
+date: "2019-02-06T20:15:37-08:00"
+summary: "Marqeta"
+images: ["https://remoteok.io/assets/jobs/0adee18ea7e4abe2099465869424a51e.png"]
+---
+
+Are you looking to join an innovative organization powering payments for the next generation of fintech and commerce innovators? Marqeta has built the worldâs first open API issuer processor platform from scratch, powering prepaid, debit, and credit cards for the most recognizable names in financial technology, alternative lending, on-demand services and e-commerce. Marqeta has become the leader in payment innovation. Our company is comprised of a team of industry experts, a dynamic approach to working on challenging problems, and an open environment and culture that is focused on ideas and innovation.Not only do we have an inspiring and innovative culture, but only Marqeta can offer you a chance to help redefine the payments industry. As a testament to the company we've collectively built, our world-class team voted Marqeta one of the Bay Areaâs Best Places to Work.Marqeta is proud of its Oakland roots and strives to build a team as diverse as the cities in which we operate. Underrepresented populations are encouraged to apply.Â **Position Summary**Marqeta is growing a fresh new Infrastructure Security Team with the goal of significantly improving industry standards in Secure Platform and Service Delivery in the Payments space.As a member of Marqetaâs Infrastructure Security Team, youâre responsible for design, development and implementation of our core platform and network security controls. Your work protects our most critical environments, as well as meets or exceeds the various regulatory compliance standards required in the Payments Industry. This role interfaces directly with Marqetaâs Platform Engineering, SRE, and Network Engineering teams, and is vital to Marqetaâs Application Security Program.The ideal candidate for this role has a strong desire to lead the organization in well considered Security Engineering methodologies, is seasoned in either AWS or GCP cloud-based services, has a strong passion for DevOps/SecDevOps/DevSecOps driven patterns, and an excellent ability to communicate across roles, teams and disciplines.

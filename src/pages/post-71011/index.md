@@ -1,0 +1,11 @@
+---
+path: "/post-71011/"
+category: "Remote Jobs"
+tags: ["quality assurance","engineer"]
+title: "Manual Quality Assurance Engineer"
+date: "2019-02-06T03:08:20-08:00"
+summary: "Wallethub"
+images: ["https://remoteok.io/assets/logo-square.png"]
+---
+
+<p><strong>Company details</strong></p><br /><p>WalletHub is one of the leading personal finance destinations in the US and rapidly growing. We&rsquo;re looking for a motivated, hardworking, and competitive Manual QA Engineer for a full-time, permanent position.</p><br /><p>Expected work schedule is 55 hours/week Monday to Friday. In case you will be working from outside the US, please be aware this position requires an overlap with EST business hours (7AM - 7PM ET, including 1 hr break).</p><br /><p>&nbsp;<br><strong>Responsibilities</strong></p><br /><ul><br /><li>Testing and assuring high quality performance of website</li><br /><li>Reporting and validating bugs for all components</li><br /><li>Creating test plans and test cases</li><br /><li>Identifying opportunities for improvement and making constructive suggestions for change</li><br /><li>Staying up-to-date with developing technologies and showcasing them in your work</li><br /></ul><br /><p>&nbsp;<br><strong>Qualifications</strong></p><br /><p>You are the ideal candidate for this job if you have:</p><br /><ul><br /><li>At least 2 years experience in Manual Testing</li><br /><li>Excellent attention to details</li><br /><li>Proven ability to meet deadlines and handle multiple tasks in a fast-paced environment</li><br /><li>Willingness to work hard</li><br /><li>Proficient in written/spoken English</li><br /></ul><br /><p>&nbsp;<br><strong>Compensation</strong></p><br /><ul><br /><li>Very competitive salary based on prior experience and qualifications</li><br /><li>Potential for stock options after the first year</li><br /><li>Raise and advancement opportunities based on periodic evaluations</li><br /><li>The ability to work overtime for added income</li><br /><li>100% remote position</li><br /></ul><br /><p>&nbsp;<br><strong>How to apply</strong></p><br /><p>To get our attention, all you need to do is send us a resume. If we believe that you will be a good match, we'll contact you to arrange the next steps. You can apply directly on&nbsp;Stackoverflow or email your application to jobs.dev@wallethub.com.</p>
