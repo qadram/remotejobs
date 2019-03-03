@@ -1,7 +1,7 @@
 ---
 path: "/post-71083/"
 category: "Remote Jobs"
-tags: ["c#","c++","java"]
+tags: ["c sharp","c++","java"]
 title: "Software Engineering Manager (SEM) ($100K/year) - Remote Work"
 date: "2019-02-10T10:03:20-08:00"
 summary: "Crossover"
