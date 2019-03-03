@@ -16,7 +16,8 @@ const FooterWrapper = styled.section`
 `;
 
 const Footer = () => (
-  <FooterWrapper>Copyright (c) 2019 RemoteJobs.es
+  <FooterWrapper>
+    Copyright (c) 2019 RemoteJobs.es
   </FooterWrapper>
 );
 
