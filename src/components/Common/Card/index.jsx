@@ -95,8 +95,8 @@ const StyledArticle = styled.article`
   }
 
   p {
-    padding: 24px 0 16px;
-    height: 106px;
+    padding: 10px 0 16px;
+    height: 46px;
     line-height: 1.4em;
     font-size: 16px;
 
@@ -147,7 +147,7 @@ const Card = ({
           </h3>
           <p>
             <Truncate
-              lines={3}
+              lines={1}
               ellipsis={(
                 <span>
                   ...

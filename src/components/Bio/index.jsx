@@ -38,13 +38,6 @@ const Bio = () => (
         height="48"
         alt=""
       />
-      <span>
-        Gatsby Advanced Blog
-        <br />
-        <small>
-          Gatsby Starter for Advanced Blog
-        </small>
-      </span>
     </a>
   </Wrapper>
 );

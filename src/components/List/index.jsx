@@ -23,7 +23,7 @@ const List = ({ data, location }) => {
       <PostsWrapper>
         <Helmet>
           <title>
-            WONISM | POST
+            RemoteJobs.es
           </title>
           <meta name="og:title" content="WONISM | POST" />
         </Helmet>

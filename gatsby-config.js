@@ -60,7 +60,7 @@ module.exports = {
       options: {
         name: 'Gatsby Advanced Blog',
         short_name: 'Gatsby Blog',
-        start_url: '/',
+        start_url: '/pages/1',
         background_color: '#fff',
         theme_color: '#3B9CFF',
         display: 'minimal-ui',
