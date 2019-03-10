@@ -5,7 +5,6 @@ import styled from 'styled-components';
 import Helmet from 'react-helmet';
 import FaTags from 'react-icons/lib/fa/tags';
 import { flow, isEmpty, isNil, map, includes, add, get, first, defaultTo } from 'lodash/fp';
-import Bio from '~/components/Bio';
 import PostWrapper from '~/components/Common/PostWrapper';
 import { SITE_URL } from '~/constants';
 import formattedDate from '~/utils/formattedDate';
