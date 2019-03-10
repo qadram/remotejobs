@@ -9,3 +9,7 @@ images: ["https://remoteok.io/assets/logo-square.png"]
 ---
 
 London, United Kingdom - **Who we are**Verisart, the world's first blockchain certification platform for the art market, is seeking developers to join its London office in Mayfair.If you're interested in distributed ledger technologies and want be at the forefront of a new decentr...
+
+<br/>
+<br/>
+Apply here: <A HREF="https://remoteok.io/l/71296">https://remoteok.io/l/71296</A>

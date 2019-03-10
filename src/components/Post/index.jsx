@@ -44,7 +44,7 @@ const PostContent = styled.section`
   }
 
   p {
-    margin: 16px 0 0;
+    margin: 0px 0 0;
     font-size: 16px;
   }
 
@@ -58,6 +58,18 @@ const PostContent = styled.section`
     font-size: 24px;
   }
 
+  ul {
+    margin: 0px 0;
+    padding: 0 0 0 40px;
+    list-style: disc;
+  }
+
+  strong
+  {
+    font-weight: bold;
+  }
+
+
   pre {
     margin: 20px 0 0;
   }
@@ -66,21 +78,20 @@ const PostContent = styled.section`
 const ImageWrapper = styled.figure`
   position: relative;
   margin: 0 0 48px;
-  padding: 56.25% 0 0;
+  padding: 0 0 0;
   width: 100%;
   overflow: hidden;
 
   img {
-    position: absolute;
     top: 0;
     bottom: 0;
     right: 0;
     left: 0;
-    margin: auto;
-    width: 100%;
+    width: 200px;
     height: auto;
   }
 `;
+
 
 class PostTemplate extends PureComponent {
   static propTypes = {
@@ -160,18 +171,9 @@ class PostTemplate extends PureComponent {
             ))(tags)}
           </Tags>
         )}
-        <Bio />
         <PostContent>
           <div id="post-contents" dangerouslySetInnerHTML={{ __html: get('markdownRemark.html')(data) }} />
         </PostContent>
-        <div id="disqus_thread" />
-        <noscript>
-          Please enable JavaScript to view the
-          &nbsp;
-          <a href="https://disqus.com/?ref_noscript">
-            comments powered by Disqus.
-          </a>
-        </noscript>
       </PostWrapper>
     );
   }

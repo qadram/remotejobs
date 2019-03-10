@@ -9,3 +9,7 @@ images: ["https://remoteok.io/assets/logo-square.png"]
 ---
 
 Remote, Spain - What we are looking for:We are a blockchain company with a product we are getting ready for launch and as part of our team we need an enthusiastic QA who can test our applications to the limit.We build applications with a strong set of component level test...
+
+<br/>
+<br/>
+Apply here: <A HREF="https://remoteok.io/l/71353">https://remoteok.io/l/71353</A>

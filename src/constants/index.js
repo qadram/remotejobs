@@ -1,5 +1,5 @@
-exports.CONTENT_PER_PAGE = 16;
-exports.PAGE_PER_SCREEN = 4;
+exports.CONTENT_PER_PAGE = 32;
+exports.PAGE_PER_SCREEN = 8;
 
 exports.POST = 'post';
 exports.PORTFOLIO = 'portfolio';

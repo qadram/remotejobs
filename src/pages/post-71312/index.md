@@ -9,3 +9,7 @@ images: ["https://remoteok.io/assets/logo-square.png"]
 ---
 
 Tallinn, Estonia - As a Go Developer for Erply, your primary focus will be on developing Go packages and programs that are scalable and maintainable. You will ensure that these Go packages and programs are well documented and have reasonable test coverage. Essential requirements...
+
+<br/>
+<br/>
+Apply here: <A HREF="https://remoteok.io/l/71312">https://remoteok.io/l/71312</A>

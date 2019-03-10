@@ -9,3 +9,7 @@ images: ["https://remoteok.io/assets/jobs/6c5289b0bd62f48082f1d77cbecf15de155050
 ---
 
 Teramind is looking for an e-mail marketing guru to help define and drive B2B email marketing campaigns. We have an awesome work culture, welcome remote employees, and expect our people to work hard and have fun! This position is remote or at our corporate office.
+
+<br/>
+<br/>
+Apply here: <A HREF="https://remoteok.io/l/71246">https://remoteok.io/l/71246</A>

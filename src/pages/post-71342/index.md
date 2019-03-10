@@ -9,3 +9,7 @@ images: ["https://remoteok.io/assets/jobs/3e2ce57772d32e74f92bec6c550a6279155099
 ---
 
 Your primary job will be to lead the redesign of our website and the creation of a comprehensive style guide. We will take care of all the development work so that you can focus strictly on the design. If necessary, you will have a graphic artist at your disposal to create marks, icons, and graphic elements for your designs.
+
+<br/>
+<br/>
+Apply here: <A HREF="https://remoteok.io/l/71342">https://remoteok.io/l/71342</A>

@@ -9,3 +9,7 @@ images: ["https://remoteok.io/assets/logo-square.png"]
 ---
 
 Java / Grails Software Engineer
+
+<br/>
+<br/>
+Apply here: <A HREF="https://remoteok.io/l/71445">https://remoteok.io/l/71445</A>

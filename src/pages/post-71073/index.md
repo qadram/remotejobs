@@ -9,3 +9,7 @@ images: ["https://remoteok.io/assets/logo-square.png"]
 ---
 
 , Singapore - Coins is looking for experienced software engineers across the stack to join our rapidly scaling FinTech company.  We are looking for engineers that can help us develop new products, scale our existing systems, and create meaningful user experiences.  Coins is...
+
+<br/>
+<br/>
+Apply here: <A HREF="https://remoteok.io/l/71073">https://remoteok.io/l/71073</A>

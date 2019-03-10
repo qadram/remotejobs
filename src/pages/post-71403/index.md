@@ -9,3 +9,7 @@ images: ["https://remoteok.io/assets/jobs/ae763ff387aaa2dee4c670cd02ddbd32155127
 ---
 
 Codelitt is looking for a Golang senior with experience building high complex applications. Preferably you'll communicate well with other engineers. You work well with others and friendly.While this is a remote position, there are often meetings at 9 a.m. ET. Something to take into consideration. Mountain Time, Central Time, or Eastern Time preferred.
+
+<br/>
+<br/>
+Apply here: <A HREF="https://remoteok.io/l/71403">https://remoteok.io/l/71403</A>
